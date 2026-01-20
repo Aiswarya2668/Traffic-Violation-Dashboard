@@ -64,6 +64,9 @@ The following steps were performed to clean and prepare the dataset for analysis
 
 📊 **Dashboard Features**  
 
+<img width="1073" height="698" alt="image" src="https://github.com/user-attachments/assets/cc2f1085-b1d4-4877-b044-798e6ba367da" />
+
+
 **Key Performance Indicators (KPIs):**  
 - Total Violations  
 - Active Violations  
